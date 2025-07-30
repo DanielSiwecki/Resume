@@ -2,7 +2,7 @@
 # Resume
 
 
-Last Updated - 19/06/2024
+Last Updated - 30/07/2025
 
 Feel free to reach me on email at: DanielAsiwecki@gmail.com 
 
