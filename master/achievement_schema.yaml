@@ -1,0 +1,20 @@
+# Example record only. Do not put personal data in the public repository.
+achievements:
+  - id: "example-001"
+    organization: "[organization]"
+    role: "[role]"
+    project: "[project]"
+    period:
+      start: null
+      end: null
+    situation: "[context]"
+    action: "[what was done]"
+    methods: []
+    outcome: "[measurable or defensible result]"
+    audience: []
+    source_documents: []
+    verification_status: "needs_review" # confirmed | candidate | needs_review | historical
+    confidentiality: "check_before_external_use"
+    suitable_role_families: []
+    permitted_wording: []
+    prohibited_claims: []
